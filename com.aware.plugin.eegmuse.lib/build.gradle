@@ -10,7 +10,7 @@ android {
         versionCode version_code
         versionName version_readable
         
-        resValue "string", "provider_eegmuse", "com.aware.plugin.eegmuse.provider.gar"
+        resValue "string", "provider_eegmuse", "com.aware.plugin.eegmuse.provider.eegmuse"
     }
 
     signingConfigs {
